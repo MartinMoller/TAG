@@ -1,2 +1,2 @@
-java -jar "dist\TAG.jar"
+java -Xmx1024m -jar "dist\TAG.jar"
 pause
